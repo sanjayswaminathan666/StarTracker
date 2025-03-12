@@ -30,6 +30,6 @@ To get started, clone the repository and install the necessary dependencies.
 
 ```bash
 https://github.com/sanjayswaminathan666/StarTracker.git
-cd terrestrial-star-tracker
+cd StarTracker
 # Install dependencies (update as needed)
 pip install -r requirements.txt
