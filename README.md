@@ -29,7 +29,7 @@ This project addresses the limitations of GPS and provides a critical solution f
 To get started, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/terrestrial-star-tracker.git
+https://github.com/sanjayswaminathan666/StarTracker.git
 cd terrestrial-star-tracker
 # Install dependencies (update as needed)
 pip install -r requirements.txt
