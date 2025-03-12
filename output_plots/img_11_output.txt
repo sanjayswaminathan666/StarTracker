@@ -1,0 +1,6 @@
+Processing image: images\img_11.jpg
+Only one star detected; no neighbors to connect.
+Star 1: x = 987, y = 715
+Reference RA: 130.580752478 degrees, Dec: -61.4480148194 degrees
+FoV: 2833.35' x 2833.35' (arcminutes) Search Radius: 2003.48 arcminutes
+Star 1: RA = 93.084751°, Dec = -51.993755°

@@ -1,0 +1,4 @@
+Processing image: images\img_10.jpg
+Only one star detected; no neighbors to connect.
+Star 1: x = 838, y = 829
+Error calculating FoV for img_10.fits: WCS solution not found in FITS header.

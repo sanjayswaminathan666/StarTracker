@@ -1,0 +1,6 @@
+Processing image: images\img_1.jpg
+Only one star detected; no neighbors to connect.
+Star 1: x = 813, y = 566
+Reference RA: 201.404914867 degrees, Dec: -41.0139070516 degrees
+FoV: 111.58' x 111.58' (arcminutes) Search Radius: 78.90 arcminutes
+Star 1: RA = 218.698166°, Dec = -60.572217°
